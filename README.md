@@ -34,6 +34,7 @@ It is commonly used for:
 | SMS-Activate | $0.07 | 170+ | Card, crypto, PayPal | ❌ | ✅ |
 | 5sim | $0.07 | 150+ | Card, crypto | ❌ | ✅ |
 | TextVerified | $0.10 | US-focused | Card, crypto | ❌ | ✅ |
+| [SMSPing](https://smsping.net/?utm_source=awesome-sms-verification&utm_medium=directory&utm_campaign=backlinks) | see site | 150+ | USDT (TRC20/ERC20/BEP20), TRX, ETH, BNB | ❌ | ✅ (SMS-Activate compatible) |
 
 ## Services
 
@@ -61,6 +62,10 @@ Covers roughly **150 countries** with a clean, developer-friendly REST API, maki
 ### [TextVerified](https://www.textverified.com)
 
 Focused primarily on **US phone numbers**, well-suited for services that specifically require an American number. Prices start around $0.10. Accepts card and some crypto. For non-US numbers, the other services above offer much broader coverage.
+
+### [SMSPing](https://smsping.net/?utm_source=awesome-sms-verification&utm_medium=directory&utm_campaign=backlinks)
+
+Online SMS verification with virtual numbers, paid mainly in USDT. Covers 150+ countries and 1,300+ services. Minimum top-up is $10. Supports USDT (TRC20/ERC20/BEP20) as well as TRX, ETH and BNB. Offers an [SMS-Activate compatible API](https://smsping.net/sms-activate-api/?utm_source=awesome-sms-verification&utm_medium=directory&utm_campaign=backlinks). See the site for current per-SMS prices.
 
 ## How to receive an SMS code
 
