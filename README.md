@@ -34,6 +34,7 @@ It is commonly used for:
 | SMS-Activate | $0.07 | 170+ | Card, crypto, PayPal | ❌ | ✅ |
 | 5sim | $0.07 | 150+ | Card, crypto | ❌ | ✅ |
 | TextVerified | $0.10 | US-focused | Card, crypto | ❌ | ✅ |
+| [SMS Duo](https://www.smsduo.com/) | Varies; live price shown on order page | 6 (US, UK, CA, HK, ID, AU) | Alipay, USDT (TRC20/BEP20) | ✅ | ✅ |
 
 ## Services
 
